@@ -1,6 +1,6 @@
 # Door phone system
 
-The First implementation of Door phone system was done in 2013, as contract project. But I lost my all source code. 
+The Door phone system using PhoneGap. 
 
 The project was implemented using the following technologies:
 
